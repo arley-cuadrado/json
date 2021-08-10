@@ -1,0 +1,158 @@
+[ 
+   {
+      "titulosectionOne":"Todo sobre <strong>Mi Movistar</strong>",
+      "titulosectionTwo":"Inicio de sesión y registro",
+      "titulosectionThree":"Todo sobre mi factura",
+      "titulosectionFour":"Administrar productos y servicios",
+      "titulosectionFive":"Atención al cliente",
+      "vinculos":[
+         {
+            "link":"¿Qué puedo hacer en Mi Movistar?",
+            "intro":"Desde Mi Movistar puedes:",
+            "listas":[
+               {
+                  "item":"Consultar y administrar la información de tu cuenta"
+               },
+               {
+                  "item":"Consultar y administrar tu Plan"
+               },
+               {
+                  "item":"Consultar tu saldo y detalle de consumo"
+               },
+               {
+                  "item":"Consultar y pagar facturas o programar pagos automáticos"
+               },
+               {
+                  "item":"Consultar pagos y descargar certificados"
+               },
+               {
+                  "item":"Cambiar tu contraseña WiFi"
+               },
+               {
+                  "item":"Registrar tu equipo y consultar tus registros de IMEI"
+               },
+               {
+                  "item":"Realizar solicitud de servicios"
+               },
+               {
+                  "item":"Configurar notificaciones"
+               },
+               {
+                  "item":"Activar tu SIM Card"
+               },
+               {
+                  "item":"dministrar Movistar Play"
+               },
+               {
+                  "item":"Administrar tus Preferidos Libres, Familia y Amigos y compartir tus datos"
+               },
+               {
+                  "item":"Solicitar soporte y servicio técnico o crear incidencia técnica"
+               }
+            ]
+         },
+         {
+            "link":"¿Cómo pagar, recargar, renovar y realizar otras transacciones? ",
+            "contenido":{
+               "parrafo":"Para realizar transacciones o acciones puntuales sobre tus productos ingresa a Mi Movistar con tu usuario y contraseña. En el panel de productos haz clic en la columna correspondiente al producto sobre el cual quieres realizar la transacción o acción y luego selecciona una opción en el menú lateral."
+            }
+         },
+         {
+            "link": "¿Cómo registrarse en Mi Movistar?",
+            "contenido":{
+               "parrafo":"ujuasdabjshdahjsdghjasdg Para registrarte en Mi Movistar, debes ingresar por la opción <strong> “Registrarse ahora”</strong> y proporcionar tu número de identificación, el número de tu línea Movistar y un correo electrónico (este será tu nombre de usuario).</br></br>Se enviará un código de comprobación a tu número celular o correo electronico para confirmar tu identidad.</br></br>Por último deberás crear una clave una contraseña para tu cuenta. Te recomendamos que incluyas mayúsculas, números y alguno signo."
+            }
+         },
+         {
+            "link": "¿Por qué debo ingresar mi cédula o ID?",
+            "contenido":{
+               "parrafo":"Con tu cédula podremos identificar los productos que están a tu nombre. Una vez que te registres no podrás cambiar tu cédula. "
+            }
+         },
+         {
+            "link": "¿Cómo cambio mi contraseña por una nueva?",
+            "contenido":{
+               "parrafo":"Para cambiar tu contraseña ingresa por la opción <strong>“Restablecer usuario y contraseña”</strong>. Una vez allí, debes proporcionar tu número de identificación para poder enviar un código de verificación al número de celular o correo con el que te hayas registrado. "
+            }
+         },
+         {
+            "link": "¿Cuál es mi usuario para ingresar a Mi Movistar?",
+            "contenido":{
+               "parrafo":"Tu usuario es el correo electronico con el que estás registrado. Ingresa el correo y la contraseña que elegiste, si no recuerdas como te registraste selecciona la opción <strong>'Restablecer usuario y contraseña'</strong>. "
+            }
+         },
+         {
+            "link": "¿Cómo actualizo los datos con los que me registré?",
+            "contenido":{
+               "parrafo":"Ingresa a Mi Movistar con tu correo y contraseña, selecciona alguno de tus productos y luego ingresa a <strong>“Información de mi cuenta”</strong> en el menú lateral a la pestaña de <strong>“Información detallada”</strong>, una vez allí, haz clic en el botón editar, se te enviará un código de seguridad para verificar tu identidad. Luego de ingresar el código de seguridad podrás actualizar tu información."
+            }
+         },
+         {
+            "link": "¿Qué navegador debo usar para ingresar a mi Movistar?",
+            "contenido":{
+               "parrafo":"Para mejorar tu experiencia Movistar te recomienda usar la última versión de: Chrome, Edge, Firefox o Safari."
+            }
+         },
+         {
+            "link": "¿Si soy contacto autorizado de una empresa puedo ingresar Mi Movistar Personas?",
+            "contenido":{
+               "parrafo":"No, Mi Movistar Personas no está disponible para los usuarios de líneas corporativas y clientes individuales. Si eres el contacto autorizado de tu empresa debes ingresar a: "
+            }
+         },
+         {
+            "link": "¿Cómo pago mi factura en línea?",
+            "contenido":{
+               "parrafo":"Movistar te da más alternativas, para realizar el pago de tu factura en línea:</br></br> Ingresando a <strong>Mi Movistar</strong> y busca el vínculo de “Pagar mi factura por…” en tablero del producto que quieres pagar, podrás ver el valor a pagar y te llevará directo a realizar el pago.</br></br> En la <strong>app Mi Movistar</strong>, selecciona el producto que quieres pagar en el menú superior y luego busca más abajo el botón de “Pagar."
+            }
+         },
+         {
+            "link": "¿Cómo leer mi factura?",
+            "contenido":{
+               "parrafo":"Aprende a leer tu factura viendo este "
+            }
+         },
+         {
+            "link": "¿Cómo consulto la información de cada uno de mis productos o servicios?",
+            "contenido":{
+               "parrafo":"Ingresa a Mi Movistar con tu usuario y contraseña actual, selecciona el producto en el menú superior <strong>“Mis Productos”</strong> o en el panel de productos y luego la opción <strong>“Mi plan”</strong>."
+            }
+         },
+         {
+            "link": "No encuentro mis productos o servicios",
+            "contenido":{
+               "parrafo":"Hay 3 razones por las que puedes no ver tus productos:"
+            }
+         },
+         {
+            "link": "¿Cómo activar Amazon Prime vídeo?",
+            "contenido":{
+               "parrafo":""
+            }
+         },
+         {
+            "link": "¿Cómo activar Netflix?",
+            "contenido":{
+               "parrafo":""
+            }
+         },
+         {
+            "link": "¿Qué debo hacer si deseo cancelar un servicio?",
+            "contenido":{
+               "parrafo":""
+            }
+         },
+         {
+            "link": "¿Qué debo hacer si perdí o robaron mi celular?",
+            "contenido":{
+               "parrafo":""
+            }
+         },
+         {
+            "link": "¿Dónde puedo radicar una petición, queja o reclamo?",
+            "contenido":{
+               "parrafo":"Para radicar una PQR dirígete a nuestra pagina de atención al cliente "
+            }
+         }
+      ]
+   }
+]
